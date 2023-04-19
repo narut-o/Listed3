@@ -1,0 +1,17 @@
+.widget-large{
+    background-color: #DDEFE0;
+    width: 480px;
+    height: 256px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.widget-large-container{
+   
+    grid-area:widget-large-container ;
+}
+
+.widget-large-inner-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}

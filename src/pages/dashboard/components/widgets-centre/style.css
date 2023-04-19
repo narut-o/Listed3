@@ -1,0 +1,15 @@
+.widget-centre{
+    background-color: #f5f5f5;
+    width: 1000px;
+    height:359px;
+    grid-area: widget-centre;
+
+
+
+}
+
+
+.widget-center-container{
+    padding: 30px;
+    grid-area:widget-center-container ;
+}
