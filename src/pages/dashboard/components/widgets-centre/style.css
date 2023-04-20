@@ -1,7 +1,7 @@
 .widget-centre{
     background-color: #FFFF;
     width: 1000px;
-    height:359px;
+    height:auto;
     grid-area: widget-centre;
     border-radius: 20px;
     margin-left: 60px;

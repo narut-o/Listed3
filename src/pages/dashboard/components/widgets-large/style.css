@@ -1,7 +1,7 @@
 .widget-large{
     background-color: #FFFF;
     width: 480px;
-    height: 256px;
+    height: auto;
     margin-left: 88px;
     
     position: relative;
